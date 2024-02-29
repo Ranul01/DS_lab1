@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nilushan
+ *
+ */
+module chatClient {
+}
